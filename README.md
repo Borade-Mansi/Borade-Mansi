@@ -1,5 +1,4 @@
 <html>
-  ```html
 <h1 align="center">Hi 👋, I'm Mansi Borade</h1>
 <h3 align="center">Cybersecurity MSc Student | SOC Analyst Enthusiast | AI Security & Intelligent Automation</h3>
 
