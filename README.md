@@ -1,103 +1,160 @@
 ```markdown
 # 👋 Hi, I'm Mansi Borade
 
-### 🔐 Cybersecurity MSc Student | SOC Operations | Threat Detection | AI Security | Security Automation | Python
+<div align="center">
 
-I am a passionate and ambitious Cybersecurity MSc student at the University of the West of Scotland (London), focused on building practical and intelligent cybersecurity solutions that combine modern security operations with AI-driven technologies. My interests lie in SOC operations, threat detection, SIEM engineering, AI security, incident response, and intelligent security automation.
+### 🔐 Cybersecurity MSc Student | SOC Operations | Threat Detection | AI Security | Security Automation
 
-I enjoy developing scalable security solutions that improve threat detection, automate security workflows, strengthen defensive operations, and support proactive cyber defense strategies. I am particularly interested in the future of AI-powered cybersecurity and agentic engineering, where intelligent systems can assist SOC teams with alert triage, automated threat analysis, phishing detection, security monitoring, and incident response.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+MSc+Student;SOC+Operations+%7C+Threat+Detection;AI+Security+%7C+Security+Automation;Building+Intelligent+Cyber+Defense+Systems" />
+
+</div>
 
 ---
 
-## 🚀 Current Focus
+## 💫 About Me
 
-- 🔍 SOC Operations & Threat Detection  
-- 🛡️ SIEM Engineering & Log Analysis  
+I am a passionate and ambitious **Cybersecurity MSc student** at the **University of the West of Scotland (London)** with strong interests in:
+
+- 🔍 SOC Operations  
+- 🛡️ Threat Detection & Threat Hunting  
+- 📊 SIEM Engineering & Log Analysis  
 - 🤖 AI Security & Agentic Engineering  
-- 🎯 Threat Hunting & Incident Response  
-- 📧 Phishing Detection & Email Security  
-- ☁️ Cloud Security & Security Monitoring  
-- ⚡ Intelligent Security Automation  
+- ⚡ Security Automation & Incident Response  
+- ☁️ Cloud Security & Security Analytics  
+
+I enjoy combining **cybersecurity** with **AI-driven intelligent automation** to build scalable and practical solutions for modern security operations. My goal is to contribute to the future of **AI-powered cyber defense systems** that improve threat detection, automate incident response, and strengthen organizational security.
+
+I continuously improve my technical expertise through:
+
+- 🧪 Cybersecurity Labs & Simulations  
+- 🔐 Threat Detection Projects  
+- 📚 Security Research & Hands-On Practice  
+- 🚨 Incident Response Scenarios  
+- 🏴 Capture The Flag (CTF) Challenges  
+- 🤖 AI Security Experiments  
 
 ---
 
-## 🧠 Technical Skills
+# 🚀 Current Projects
 
-### 🔐 Cybersecurity
-`SOC Operations` • `Threat Detection` • `SIEM Monitoring` • `Log Analysis` • `Threat Hunting` • `Incident Response` • `Security Analytics` • `Phishing Detection`
-
-### 💻 Programming & Automation
-`Python` • `PowerShell` • `Bash` • `JavaScript` • `TypeScript`
-
-### 🛠️ Security Tools
-`Wireshark` • `Suricata` • `Snort` • `Splunk` • `Elastic Stack` • `Docker`
-
-### ☁️ Cloud & Platforms
-`AWS` • `Azure` • `Google Cloud`
-
-### 📊 AI & Data Technologies
-`TensorFlow` • `PyTorch` • `Scikit-learn` • `Pandas` • `NumPy`
+🔹 Prompt Injection Detection System  
+🔹 Phishing Email Analyzer  
+🔹 Log-Based Threat Detection Tool  
+🔹 AI-Assisted Security Monitoring  
+🔹 Intelligent SOC Automation Workflows  
 
 ---
 
-## 🧪 Hands-On Experience
+# 🛠️ Cybersecurity Skills
 
-I continuously strengthen my cybersecurity expertise through:
+<div align="center">
 
-- Cybersecurity labs & simulations  
-- AI security research  
-- Threat detection projects  
-- SIEM-style monitoring environments  
-- Incident response practice  
-- Security-focused automation projects  
-- Capture The Flag (CTF) platforms  
-- Real-world cybersecurity learning experiences  
+| Security Operations | Security Tools | Programming |
+|---|---|---|
+| SOC Operations | Wireshark | Python |
+| Threat Detection | Splunk | PowerShell |
+| SIEM Monitoring | Suricata | Bash |
+| Incident Response | Snort | JavaScript |
+| Threat Hunting | Elastic Stack | TypeScript |
+| Log Analysis | Docker | SQL |
 
----
-
-## 📌 Featured Projects
-
-- 🔐 Prompt Injection Detection System  
-- 📧 Phishing Email Analyzer  
-- 📊 Log-Based Threat Detection Tool  
-- 🤖 AI-Assisted Security Monitoring Solutions  
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# ☁️ Cloud & AI Technologies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mansi%20Borade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansiborade)
+<p align="center">
 
-[![Email](https://img.shields.io/badge/Email-borademansiv%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borademansiv@gmail.com)
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,tensorflow,pytorch,python,git,github,vscode" />
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- 🔐 Advanced SOC Operations  
+- 🤖 AI Security & Agentic Systems  
+- 🚨 Threat Intelligence & Detection Engineering  
+- ☁️ Cloud Security Monitoring  
+- 📊 Security Analytics & Automation  
+- 🛡️ Defensive Security Operations  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mansiborade">
+<img src="https://img.shields.io/badge/LinkedIn-Mansi%20Borade-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:borademansiv@gmail.com">
+<img src="https://img.shields.io/badge/Email-borademansiv%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,js,ts,aws,azure,gcp,docker,kubernetes,mysql,mongodb,linux,git,github,vscode" />
+
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Borade-Mansi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Borade-Mansi&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Borade-Mansi&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Borade-Mansi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
+
 ---
 
-![](https://komarev.com/ghpvc/?username=Borade-Mansi&color=blueviolet&style=for-the-badge)
+# 🏆 Certifications & Learning
 
-> “Building intelligent cybersecurity solutions through AI-driven defense, automation, and modern security operations.”
+✅ ISC2 Certified in Cybersecurity (CC) – In Progress  
+✅ TryHackMe Defensive Security Labs  
+✅ Cybersecurity Simulations & Threat Analysis  
+✅ AI Security Research & Projects  
+
+---
+
+# 🔥 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Borade-Mansi&theme=tokyonight" />
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Borade-Mansi&style=for-the-badge&color=blueviolet" />
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ "Building Intelligent Cybersecurity Solutions Through AI-Driven Defense & Security Automation"
+
+</div>
 ```
