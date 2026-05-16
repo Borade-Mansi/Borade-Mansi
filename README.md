@@ -1,4 +1,5 @@
-```html
+<html>
+  ```html
 <h1 align="center">Hi 👋, I'm Mansi Borade</h1>
 <h3 align="center">Cybersecurity MSc Student | SOC Analyst Enthusiast | AI Security & Intelligent Automation</h3>
 
@@ -168,3 +169,5 @@ In addition to cybersecurity, I am deeply interested in <b>AI security and agent
 ⚡ “Securing the future with AI-driven cybersecurity and intelligent automation.” ⚡
 </h3>
 ```
+
+</html>
