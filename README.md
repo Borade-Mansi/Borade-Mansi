@@ -11,22 +11,20 @@
 ## 💫 About Me
 
 <p align="justify">
-I am a passionate and ambitious <b>Cybersecurity MSc student</b> at the <b>University of the West of Scotland (London)</b>, specializing in <b>SOC operations, threat detection, security monitoring, AI security, and intelligent automation</b>.  
-I am highly interested in building practical and scalable cybersecurity solutions that combine modern security operations with AI-driven technologies to improve threat detection, incident response, and proactive cyber defense strategies.
+I am an <b>MSc Cyber Security graduate</b> from the <b>University of the West of Scotland (London)</b> with a strong interest in <b>Security Operations (SOC), threat detection, incident response, and machine learning for cybersecurity</b>. I enjoy building practical cybersecurity solutions that combine security analytics with AI to improve threat detection and defensive operations.
 </p>
 
 <p align="justify">
-My technical interests include <b>SOC operations, SIEM engineering, phishing detection, threat hunting, log analysis, security analytics, cloud security, and AI-assisted cybersecurity systems</b>. I enjoy working on projects that focus on identifying security threats, analyzing attack patterns, monitoring suspicious activities, and automating security workflows to strengthen organizational security operations.
+My MSc project focused on designing and implementing a <b>Hybrid Intrusion Detection System (IDS)</b> using <b>Random Forest</b> and <b>Bidirectional LSTM</b> models for real-time network attack detection. The project was developed using <b>Python, TensorFlow, Scikit-learn, FastAPI, and Docker</b>, with evaluation performed on the <b>NSL-KDD, CICIDS2017, and UNSW-NB15</b> datasets.
 </p>
 
 <p align="justify">
-I have hands-on experience with <b>Python, cybersecurity labs, SIEM-style monitoring, log analysis</b>, and security tools such as <b>Wireshark, Suricata, Snort</b>, and other security monitoring technologies. Through internships, academic projects, cybersecurity simulations, and independent research, I continuously improve my practical knowledge in threat detection, defensive security operations, incident response, and intelligent security automation.
+I have hands-on experience with <b>Python, Linux, Wireshark, Suricata, Snort, Splunk, Docker, Git, and SQL</b>. I also enjoy working on network traffic analysis, log analysis, intrusion detection, and security monitoring through practical projects and cybersecurity labs.
 </p>
 
 <p align="justify">
-In addition to cybersecurity, I am deeply interested in <b>AI security and agentic engineering</b>, particularly in how intelligent systems and automation can support SOC teams through automated threat analysis, alert triage, security monitoring, and incident response assistance.
+I am currently seeking an <b>entry-level Cyber Security Analyst, SOC Analyst, or Security Operations role in the UK</b>, where I can apply my technical skills, continue learning from experienced professionals, and contribute to protecting organisations from evolving cyber threats.
 </p>
-
 ---
 
 # 🚀 Current Focus
